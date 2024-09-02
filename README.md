@@ -1,4 +1,4 @@
-Analyzing Student Performance to Improve Study Strategies
+# Analyzing Student Performance to Improve Study Strategies
 
 ## Objectives
 - **Mathematical Operations**: Calculate basic statistics, correlations, and perform element-wise operations.
