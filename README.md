@@ -37,14 +37,14 @@ The dataset used in this analysis is `student_performance_dataset(in).csv`, whic
 - A linear regression model is fitted to the data to examine the relationship between study hours and Math scores.
 - The regression line is plotted along with the data points to visualize the trend.
 
-### 6. Visualization
+### 6. Visualisation
 - A scatter plot is generated to show the relationship between study hours and Math scores, with the regression line overlaid.
 
 ## How to Run the Notebook
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/gappeah/Student-Performance-Analysis.git>
    ```
 2. Navigate to the project directory:
    ```bash
